@@ -79,5 +79,6 @@ public class Main {
         // Imprimo cada valor
         System.out.println(refrigeracion.getTipo());
         System.out.println(refrigeracion.getPotencia());
+
     }
 }
