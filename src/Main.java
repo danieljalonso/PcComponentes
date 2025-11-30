@@ -20,6 +20,7 @@ public class Main {
         System.out.println(cpu.getMemCache());
         System.out.println(cpu.getVelocidad());
 
+
         // Me creo una memoria en blanco
         Almacenamiento almacenamiento = new Almacenamiento();
 
